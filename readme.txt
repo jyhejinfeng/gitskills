@@ -1,3 +1,3 @@
 Creating a new branch is quick.
 Switched to a new branch 'feature1'
-dev branch
+Git is a free software...
